@@ -1,0 +1,1223 @@
+section,set,method,statistic,value,check
+Table 2,setup.action_list,twin,correct,5,exact
+Table 2,setup.action_list,twin,n,10,exact
+Table 2,setup.action_list,twin,wilson_low_pct,23.7,exact
+Table 2,setup.action_list,twin,wilson_high_pct,76.3,exact
+Table 2,setup.action_list,haiku,correct,5,exact
+Table I.1,setup.action_list,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.action_list,twin_vs_haiku,only_b,1,exact
+Table I.1,setup.action_list,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.action_list,opus,correct,6,exact
+Table I.1,setup.action_list,twin_vs_opus,only_a,1,exact
+Table I.1,setup.action_list,twin_vs_opus,only_b,2,exact
+Table I.1,setup.action_list,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.action_list,always_zero,correct,6,exact
+Table I.1,setup.action_list,twin_vs_always_zero,only_a,0,exact
+Table I.1,setup.action_list,twin_vs_always_zero,only_b,1,exact
+Table I.1,setup.action_list,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.action_list,sonnet,correct,6,exact
+Table I.1,setup.action_list,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.action_list,twin_vs_sonnet,only_b,1,exact
+Table I.1,setup.action_list,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.action_list,history,truth_zero,6,exact
+Table I.2,setup.action_list,twin,zero_answers,8,exact
+Appendix F,setup.action_list,twin,outcome_group_acc,0.42,exact
+Appendix F,setup.action_list,twin,balanced_acc,0.28,exact
+Appendix F,setup.action_list,twin,kappa,-0.04,exact
+Appendix F,setup.action_list,twin,opposite_sign,1,exact
+Appendix F,setup.action_list,haiku,outcome_group_acc,0.42,exact
+Appendix F,setup.action_list,haiku,balanced_acc,0.28,exact
+Appendix F,setup.action_list,haiku,kappa,-0.04,exact
+Appendix F,setup.action_list,opus,outcome_group_acc,0.54,exact
+Appendix F,setup.action_list,opus,balanced_acc,0.44,exact
+Appendix F,setup.action_list,opus,kappa,0.17,exact
+Table 2,setup.html,twin,correct,6,exact
+Table 2,setup.html,twin,n,10,exact
+Table 2,setup.html,twin,wilson_low_pct,31.3,exact
+Table 2,setup.html,twin,wilson_high_pct,83.2,exact
+Table 2,setup.html,haiku,correct,5,exact
+Table I.1,setup.html,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.html,twin_vs_haiku,only_b,0,exact
+Table I.1,setup.html,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.html,opus,correct,6,exact
+Table I.1,setup.html,twin_vs_opus,only_a,1,exact
+Table I.1,setup.html,twin_vs_opus,only_b,1,exact
+Table I.1,setup.html,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.html,always_zero,correct,6,exact
+Table I.1,setup.html,twin_vs_always_zero,only_a,0,exact
+Table I.1,setup.html,twin_vs_always_zero,only_b,0,exact
+Table I.1,setup.html,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.html,sonnet,correct,6,exact
+Table I.1,setup.html,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.html,twin_vs_sonnet,only_b,0,exact
+Table I.1,setup.html,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.html,history,truth_zero,6,exact
+Table I.2,setup.html,twin,zero_answers,10,exact
+Appendix F,setup.html,twin,outcome_group_acc,0.5,exact
+Appendix F,setup.html,twin,balanced_acc,0.33,exact
+Appendix F,setup.html,twin,kappa,0.0,exact
+Appendix F,setup.html,twin,opposite_sign,0,exact
+Appendix F,setup.html,haiku,outcome_group_acc,0.42,exact
+Appendix F,setup.html,haiku,balanced_acc,0.28,exact
+Appendix F,setup.html,haiku,kappa,-0.04,exact
+Appendix F,setup.html,opus,outcome_group_acc,0.54,exact
+Appendix F,setup.html,opus,balanced_acc,0.44,exact
+Appendix F,setup.html,opus,kappa,0.17,exact
+Table 2,setup.coordinates,twin,correct,5,exact
+Table 2,setup.coordinates,twin,n,10,exact
+Table 2,setup.coordinates,twin,wilson_low_pct,23.7,exact
+Table 2,setup.coordinates,twin,wilson_high_pct,76.3,exact
+Table 2,setup.coordinates,haiku,correct,5,exact
+Table I.1,setup.coordinates,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.coordinates,twin_vs_haiku,only_b,1,exact
+Table I.1,setup.coordinates,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.coordinates,opus,correct,6,exact
+Table I.1,setup.coordinates,twin_vs_opus,only_a,1,exact
+Table I.1,setup.coordinates,twin_vs_opus,only_b,2,exact
+Table I.1,setup.coordinates,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.coordinates,always_zero,correct,6,exact
+Table I.1,setup.coordinates,twin_vs_always_zero,only_a,0,exact
+Table I.1,setup.coordinates,twin_vs_always_zero,only_b,1,exact
+Table I.1,setup.coordinates,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.coordinates,sonnet,correct,6,exact
+Table I.1,setup.coordinates,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.coordinates,twin_vs_sonnet,only_b,1,exact
+Table I.1,setup.coordinates,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.coordinates,history,truth_zero,6,exact
+Table I.2,setup.coordinates,twin,zero_answers,9,exact
+Appendix F,setup.coordinates,twin,outcome_group_acc,0.42,exact
+Appendix F,setup.coordinates,twin,balanced_acc,0.28,exact
+Appendix F,setup.coordinates,twin,kappa,-0.14,exact
+Appendix F,setup.coordinates,twin,opposite_sign,0,exact
+Appendix F,setup.coordinates,haiku,outcome_group_acc,0.42,exact
+Appendix F,setup.coordinates,haiku,balanced_acc,0.28,exact
+Appendix F,setup.coordinates,haiku,kappa,-0.04,exact
+Appendix F,setup.coordinates,opus,outcome_group_acc,0.54,exact
+Appendix F,setup.coordinates,opus,balanced_acc,0.44,exact
+Appendix F,setup.coordinates,opus,kappa,0.17,exact
+Table 2,setup.fold,twin,correct,6,exact
+Table 2,setup.fold,twin,n,8,exact
+Table 2,setup.fold,twin,wilson_low_pct,40.9,exact
+Table 2,setup.fold,twin,wilson_high_pct,92.9,exact
+Table 2,setup.fold,haiku,correct,5,exact
+Table I.1,setup.fold,twin_vs_haiku,only_a,2,exact
+Table I.1,setup.fold,twin_vs_haiku,only_b,1,exact
+Table I.1,setup.fold,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.fold,opus,correct,5,exact
+Table I.1,setup.fold,twin_vs_opus,only_a,1,exact
+Table I.1,setup.fold,twin_vs_opus,only_b,0,exact
+Table I.1,setup.fold,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.fold,always_zero,correct,3,exact
+Table I.1,setup.fold,twin_vs_always_zero,only_a,3,exact
+Table I.1,setup.fold,twin_vs_always_zero,only_b,0,exact
+Table I.1,setup.fold,twin_vs_always_zero,mcnemar_p,0.25,exact
+Table 2,setup.fold,sonnet,correct,4,exact
+Table I.1,setup.fold,twin_vs_sonnet,only_a,2,exact
+Table I.1,setup.fold,twin_vs_sonnet,only_b,0,exact
+Table I.1,setup.fold,twin_vs_sonnet,mcnemar_p,0.5,exact
+Table I.2,setup.fold,history,truth_zero,3,exact
+Table I.2,setup.fold,twin,zero_answers,5,exact
+Appendix F,setup.fold,twin,outcome_group_acc,0.8,exact
+Appendix F,setup.fold,twin,balanced_acc,0.83,exact
+Appendix F,setup.fold,twin,kappa,0.6,exact
+Appendix F,setup.fold,twin,opposite_sign,0,exact
+Appendix F,setup.fold,haiku,outcome_group_acc,0.7,exact
+Appendix F,setup.fold,haiku,balanced_acc,0.5,exact
+Appendix F,setup.fold,haiku,kappa,0.4,exact
+Appendix F,setup.fold,opus,outcome_group_acc,0.7,exact
+Appendix F,setup.fold,opus,balanced_acc,0.5,exact
+Appendix F,setup.fold,opus,kappa,0.37,exact
+Table 2,setup.heldout_screens,twin,correct,6,exact
+Table 2,setup.heldout_screens,twin,n,12,exact
+Table 2,setup.heldout_screens,twin,wilson_low_pct,25.4,exact
+Table 2,setup.heldout_screens,twin,wilson_high_pct,74.6,exact
+Table 2,setup.heldout_screens,haiku,correct,6,exact
+Table I.1,setup.heldout_screens,twin_vs_haiku,only_a,2,exact
+Table I.1,setup.heldout_screens,twin_vs_haiku,only_b,2,exact
+Table I.1,setup.heldout_screens,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.heldout_screens,opus,correct,7,exact
+Table I.1,setup.heldout_screens,twin_vs_opus,only_a,2,exact
+Table I.1,setup.heldout_screens,twin_vs_opus,only_b,3,exact
+Table I.1,setup.heldout_screens,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.heldout_screens,always_zero,correct,5,exact
+Table I.1,setup.heldout_screens,twin_vs_always_zero,only_a,3,exact
+Table I.1,setup.heldout_screens,twin_vs_always_zero,only_b,2,exact
+Table I.1,setup.heldout_screens,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.heldout_screens,sonnet,correct,7,exact
+Table I.1,setup.heldout_screens,twin_vs_sonnet,only_a,2,exact
+Table I.1,setup.heldout_screens,twin_vs_sonnet,only_b,3,exact
+Table I.1,setup.heldout_screens,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.heldout_screens,history,truth_zero,5,exact
+Table I.2,setup.heldout_screens,twin,zero_answers,7,exact
+Appendix F,setup.heldout_screens,twin,outcome_group_acc,0.51,exact
+Appendix F,setup.heldout_screens,twin,balanced_acc,0.48,exact
+Appendix F,setup.heldout_screens,twin,kappa,0.2,exact
+Appendix F,setup.heldout_screens,twin,opposite_sign,0,exact
+Appendix F,setup.heldout_screens,haiku,outcome_group_acc,0.51,exact
+Appendix F,setup.heldout_screens,haiku,balanced_acc,0.48,exact
+Appendix F,setup.heldout_screens,haiku,kappa,0.2,exact
+Appendix F,setup.heldout_screens,opus,outcome_group_acc,0.61,exact
+Appendix F,setup.heldout_screens,opus,balanced_acc,0.54,exact
+Appendix F,setup.heldout_screens,opus,kappa,0.33,exact
+Table 2,setup.reco_first,twin,correct,9,exact
+Table 2,setup.reco_first,twin,n,11,exact
+Table 2,setup.reco_first,twin,wilson_low_pct,52.3,exact
+Table 2,setup.reco_first,twin,wilson_high_pct,94.9,exact
+Table 2,setup.reco_first,haiku,correct,6,exact
+Table I.1,setup.reco_first,twin_vs_haiku,only_a,5,exact
+Table I.1,setup.reco_first,twin_vs_haiku,only_b,2,exact
+Table I.1,setup.reco_first,twin_vs_haiku,mcnemar_p,0.453,exact
+Table 2,setup.reco_first,opus,correct,8,exact
+Table I.1,setup.reco_first,twin_vs_opus,only_a,2,exact
+Table I.1,setup.reco_first,twin_vs_opus,only_b,1,exact
+Table I.1,setup.reco_first,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.reco_first,always_zero,correct,7,exact
+Table I.1,setup.reco_first,twin_vs_always_zero,only_a,2,exact
+Table I.1,setup.reco_first,twin_vs_always_zero,only_b,0,exact
+Table I.1,setup.reco_first,twin_vs_always_zero,mcnemar_p,0.5,exact
+Table 2,setup.reco_first,sonnet,correct,6,exact
+Table I.1,setup.reco_first,twin_vs_sonnet,only_a,4,exact
+Table I.1,setup.reco_first,twin_vs_sonnet,only_b,1,exact
+Table I.1,setup.reco_first,twin_vs_sonnet,mcnemar_p,0.375,exact
+Table I.2,setup.reco_first,history,truth_zero,7,exact
+Table I.2,setup.reco_first,twin,zero_answers,9,exact
+Appendix F,setup.reco_first,twin,outcome_group_acc,0.75,exact
+Appendix F,setup.reco_first,twin,balanced_acc,0.75,exact
+Appendix F,setup.reco_first,twin,kappa,0.56,exact
+Appendix F,setup.reco_first,twin,opposite_sign,0,exact
+Appendix F,setup.reco_first,haiku,outcome_group_acc,0.64,exact
+Appendix F,setup.reco_first,haiku,balanced_acc,0.64,exact
+Appendix F,setup.reco_first,haiku,kappa,0.23,exact
+Appendix F,setup.reco_first,opus,outcome_group_acc,0.73,exact
+Appendix F,setup.reco_first,opus,balanced_acc,0.73,exact
+Appendix F,setup.reco_first,opus,kappa,0.44,exact
+Table 2,setup.reco_replication,twin,correct,8,exact
+Table 2,setup.reco_replication,twin,n,11,exact
+Table 2,setup.reco_replication,twin,wilson_low_pct,43.4,exact
+Table 2,setup.reco_replication,twin,wilson_high_pct,90.3,exact
+Table 2,setup.reco_replication,haiku,correct,6,exact
+Table I.1,setup.reco_replication,twin_vs_haiku,only_a,5,exact
+Table I.1,setup.reco_replication,twin_vs_haiku,only_b,3,exact
+Table I.1,setup.reco_replication,twin_vs_haiku,mcnemar_p,0.727,exact
+Table 2,setup.reco_replication,opus,correct,8,exact
+Table I.1,setup.reco_replication,twin_vs_opus,only_a,2,exact
+Table I.1,setup.reco_replication,twin_vs_opus,only_b,2,exact
+Table I.1,setup.reco_replication,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.reco_replication,always_zero,correct,7,exact
+Table I.1,setup.reco_replication,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.reco_replication,twin_vs_always_zero,only_b,0,exact
+Table I.1,setup.reco_replication,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.reco_replication,sonnet,correct,6,exact
+Table I.1,setup.reco_replication,twin_vs_sonnet,only_a,4,exact
+Table I.1,setup.reco_replication,twin_vs_sonnet,only_b,2,exact
+Table I.1,setup.reco_replication,twin_vs_sonnet,mcnemar_p,0.688,exact
+Table I.2,setup.reco_replication,history,truth_zero,7,exact
+Table I.2,setup.reco_replication,twin,zero_answers,10,exact
+Appendix F,setup.reco_replication,twin,outcome_group_acc,0.62,exact
+Appendix F,setup.reco_replication,twin,balanced_acc,0.62,exact
+Appendix F,setup.reco_replication,twin,kappa,0.3,exact
+Appendix F,setup.reco_replication,twin,opposite_sign,0,exact
+Appendix F,setup.reco_replication,haiku,outcome_group_acc,0.64,exact
+Appendix F,setup.reco_replication,haiku,balanced_acc,0.64,exact
+Appendix F,setup.reco_replication,haiku,kappa,0.23,exact
+Appendix F,setup.reco_replication,opus,outcome_group_acc,0.73,exact
+Appendix F,setup.reco_replication,opus,balanced_acc,0.73,exact
+Appendix F,setup.reco_replication,opus,kappa,0.44,exact
+Table 2,setup.reco_pooled,twin,correct,6,exact
+Table 2,setup.reco_pooled,twin,n,11,exact
+Table 2,setup.reco_pooled,twin,wilson_low_pct,28.0,exact
+Table 2,setup.reco_pooled,twin,wilson_high_pct,78.7,exact
+Table 2,setup.reco_pooled,haiku,correct,6,exact
+Table I.1,setup.reco_pooled,twin_vs_haiku,only_a,4,exact
+Table I.1,setup.reco_pooled,twin_vs_haiku,only_b,4,exact
+Table I.1,setup.reco_pooled,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.reco_pooled,opus,correct,8,exact
+Table I.1,setup.reco_pooled,twin_vs_opus,only_a,2,exact
+Table I.1,setup.reco_pooled,twin_vs_opus,only_b,4,exact
+Table I.1,setup.reco_pooled,twin_vs_opus,mcnemar_p,0.688,exact
+Table 2,setup.reco_pooled,always_zero,correct,7,exact
+Table I.1,setup.reco_pooled,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.reco_pooled,twin_vs_always_zero,only_b,2,exact
+Table I.1,setup.reco_pooled,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.reco_pooled,sonnet,correct,6,exact
+Table I.1,setup.reco_pooled,twin_vs_sonnet,only_a,3,exact
+Table I.1,setup.reco_pooled,twin_vs_sonnet,only_b,3,exact
+Table I.1,setup.reco_pooled,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.reco_pooled,history,truth_zero,7,exact
+Table I.2,setup.reco_pooled,twin,zero_answers,8,exact
+Appendix F,setup.reco_pooled,twin,outcome_group_acc,0.48,exact
+Appendix F,setup.reco_pooled,twin,balanced_acc,0.48,exact
+Appendix F,setup.reco_pooled,twin,kappa,0.04,exact
+Appendix F,setup.reco_pooled,twin,opposite_sign,0,exact
+Appendix F,setup.reco_pooled,haiku,outcome_group_acc,0.64,exact
+Appendix F,setup.reco_pooled,haiku,balanced_acc,0.64,exact
+Appendix F,setup.reco_pooled,haiku,kappa,0.23,exact
+Appendix F,setup.reco_pooled,opus,outcome_group_acc,0.73,exact
+Appendix F,setup.reco_pooled,opus,balanced_acc,0.73,exact
+Appendix F,setup.reco_pooled,opus,kappa,0.44,exact
+Table 2,setup.design,twin,correct,2,exact
+Table 2,setup.design,twin,n,4,exact
+Table 2,setup.design,twin,wilson_low_pct,15.0,exact
+Table 2,setup.design,twin,wilson_high_pct,85.0,exact
+Table 2,setup.design,haiku,correct,1,exact
+Table I.1,setup.design,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.design,twin_vs_haiku,only_b,0,exact
+Table I.1,setup.design,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.design,opus,correct,1,exact
+Table I.1,setup.design,twin_vs_opus,only_a,1,exact
+Table I.1,setup.design,twin_vs_opus,only_b,0,exact
+Table I.1,setup.design,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.design,always_zero,correct,1,exact
+Table I.1,setup.design,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.design,twin_vs_always_zero,only_b,0,exact
+Table I.1,setup.design,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.design,sonnet,correct,1,exact
+Table I.1,setup.design,twin_vs_sonnet,only_a,1,exact
+Table I.1,setup.design,twin_vs_sonnet,only_b,0,exact
+Table I.1,setup.design,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.design,history,truth_zero,1,exact
+Table I.2,setup.design,twin,zero_answers,3,exact
+Appendix F,setup.design,twin,outcome_group_acc,0.67,exact
+Appendix F,setup.design,twin,balanced_acc,0.67,exact
+Appendix F,setup.design,twin,kappa,0.33,exact
+Appendix F,setup.design,twin,opposite_sign,0,exact
+Appendix F,setup.design,haiku,outcome_group_acc,0.5,exact
+Appendix F,setup.design,haiku,balanced_acc,0.33,exact
+Appendix F,setup.design,haiku,kappa,0.08,exact
+Appendix F,setup.design,opus,outcome_group_acc,0.5,exact
+Appendix F,setup.design,opus,balanced_acc,0.33,exact
+Appendix F,setup.design,opus,kappa,-0.09,exact
+Table 2,setup.catalogue,twin,correct,4,exact
+Table 2,setup.catalogue,twin,n,15,exact
+Table 2,setup.catalogue,twin,wilson_low_pct,10.9,exact
+Table 2,setup.catalogue,twin,wilson_high_pct,52.0,exact
+Table 2,setup.catalogue,haiku,correct,7,exact
+Table I.1,setup.catalogue,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.catalogue,twin_vs_haiku,only_b,4,exact
+Table I.1,setup.catalogue,twin_vs_haiku,mcnemar_p,0.375,exact
+Table 2,setup.catalogue,opus,correct,9,exact
+Table I.1,setup.catalogue,twin_vs_opus,only_a,1,exact
+Table I.1,setup.catalogue,twin_vs_opus,only_b,6,exact
+Table I.1,setup.catalogue,twin_vs_opus,mcnemar_p,0.125,exact
+Table 2,setup.catalogue,always_zero,correct,5,exact
+Table I.1,setup.catalogue,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.catalogue,twin_vs_always_zero,only_b,2,exact
+Table I.1,setup.catalogue,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.catalogue,sonnet,correct,8,exact
+Table I.1,setup.catalogue,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.catalogue,twin_vs_sonnet,only_b,4,exact
+Table I.1,setup.catalogue,twin_vs_sonnet,mcnemar_p,0.125,exact
+Table I.2,setup.catalogue,history,truth_zero,5,exact
+Table I.2,setup.catalogue,twin,zero_answers,12,exact
+Appendix F,setup.catalogue,twin,outcome_group_acc,0.35,exact
+Appendix F,setup.catalogue,twin,balanced_acc,0.26,exact
+Appendix F,setup.catalogue,twin,kappa,-0.12,exact
+Appendix F,setup.catalogue,twin,opposite_sign,0,exact
+Appendix F,setup.catalogue,haiku,outcome_group_acc,0.5,exact
+Appendix F,setup.catalogue,haiku,balanced_acc,0.45,exact
+Appendix F,setup.catalogue,haiku,kappa,0.18,exact
+Appendix F,setup.catalogue,opus,outcome_group_acc,0.65,exact
+Appendix F,setup.catalogue,opus,balanced_acc,0.57,exact
+Appendix F,setup.catalogue,opus,kappa,0.38,exact
+Table 2,setup.cut2,twin,correct,3,exact
+Table 2,setup.cut2,twin,n,15,exact
+Table 2,setup.cut2,twin,wilson_low_pct,7.0,exact
+Table 2,setup.cut2,twin,wilson_high_pct,45.2,exact
+Table 2,setup.cut2,haiku,correct,7,exact
+Table I.1,setup.cut2,twin_vs_haiku,only_a,0,exact
+Table I.1,setup.cut2,twin_vs_haiku,only_b,4,exact
+Table I.1,setup.cut2,twin_vs_haiku,mcnemar_p,0.125,exact
+Table 2,setup.cut2,opus,correct,9,exact
+Table I.1,setup.cut2,twin_vs_opus,only_a,0,exact
+Table I.1,setup.cut2,twin_vs_opus,only_b,6,exact
+Table I.1,setup.cut2,twin_vs_opus,mcnemar_p,0.031,exact
+Table 2,setup.cut2,always_zero,correct,5,exact
+Table I.1,setup.cut2,twin_vs_always_zero,only_a,2,exact
+Table I.1,setup.cut2,twin_vs_always_zero,only_b,4,exact
+Table I.1,setup.cut2,twin_vs_always_zero,mcnemar_p,0.688,exact
+Table 2,setup.cut2,sonnet,correct,8,exact
+Table I.1,setup.cut2,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.cut2,twin_vs_sonnet,only_b,5,exact
+Table I.1,setup.cut2,twin_vs_sonnet,mcnemar_p,0.062,exact
+Table I.2,setup.cut2,history,truth_zero,5,exact
+Table I.2,setup.cut2,twin,zero_answers,8,exact
+Appendix F,setup.cut2,twin,outcome_group_acc,0.2,exact
+Appendix F,setup.cut2,twin,balanced_acc,0.18,exact
+Appendix F,setup.cut2,twin,kappa,-0.22,exact
+Appendix F,setup.cut2,twin,opposite_sign,1,exact
+Appendix F,setup.cut2,haiku,outcome_group_acc,0.5,exact
+Appendix F,setup.cut2,haiku,balanced_acc,0.45,exact
+Appendix F,setup.cut2,haiku,kappa,0.18,exact
+Appendix F,setup.cut2,opus,outcome_group_acc,0.65,exact
+Appendix F,setup.cut2,opus,balanced_acc,0.57,exact
+Appendix F,setup.cut2,opus,kappa,0.38,exact
+Table 2,setup.cut3,twin,correct,3,exact
+Table 2,setup.cut3,twin,n,15,exact
+Table 2,setup.cut3,twin,wilson_low_pct,7.0,exact
+Table 2,setup.cut3,twin,wilson_high_pct,45.2,exact
+Table 2,setup.cut3,haiku,correct,7,exact
+Table I.1,setup.cut3,twin_vs_haiku,only_a,0,exact
+Table I.1,setup.cut3,twin_vs_haiku,only_b,4,exact
+Table I.1,setup.cut3,twin_vs_haiku,mcnemar_p,0.125,exact
+Table 2,setup.cut3,opus,correct,9,exact
+Table I.1,setup.cut3,twin_vs_opus,only_a,0,exact
+Table I.1,setup.cut3,twin_vs_opus,only_b,6,exact
+Table I.1,setup.cut3,twin_vs_opus,mcnemar_p,0.031,exact
+Table 2,setup.cut3,always_zero,correct,5,exact
+Table I.1,setup.cut3,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.cut3,twin_vs_always_zero,only_b,3,exact
+Table I.1,setup.cut3,twin_vs_always_zero,mcnemar_p,0.625,exact
+Table 2,setup.cut3,sonnet,correct,8,exact
+Table I.1,setup.cut3,twin_vs_sonnet,only_a,0,exact
+Table I.1,setup.cut3,twin_vs_sonnet,only_b,5,exact
+Table I.1,setup.cut3,twin_vs_sonnet,mcnemar_p,0.062,exact
+Table I.2,setup.cut3,history,truth_zero,5,exact
+Table I.2,setup.cut3,twin,zero_answers,11,exact
+Appendix F,setup.cut3,twin,outcome_group_acc,0.25,exact
+Appendix F,setup.cut3,twin,balanced_acc,0.19,exact
+Appendix F,setup.cut3,twin,kappa,-0.23,exact
+Appendix F,setup.cut3,twin,opposite_sign,0,exact
+Appendix F,setup.cut3,haiku,outcome_group_acc,0.5,exact
+Appendix F,setup.cut3,haiku,balanced_acc,0.45,exact
+Appendix F,setup.cut3,haiku,kappa,0.18,exact
+Appendix F,setup.cut3,opus,outcome_group_acc,0.65,exact
+Appendix F,setup.cut3,opus,balanced_acc,0.57,exact
+Appendix F,setup.cut3,opus,kappa,0.38,exact
+Table 2,setup.onescreen_extra,twin,correct,3,exact
+Table 2,setup.onescreen_extra,twin,n,8,exact
+Table 2,setup.onescreen_extra,twin,wilson_low_pct,13.7,exact
+Table 2,setup.onescreen_extra,twin,wilson_high_pct,69.4,exact
+Table 2,setup.onescreen_extra,haiku,correct,3,exact
+Table I.1,setup.onescreen_extra,twin_vs_haiku,only_a,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_haiku,only_b,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_haiku,mcnemar_p,1.0,exact
+Table 2,setup.onescreen_extra,opus,correct,4,exact
+Table I.1,setup.onescreen_extra,twin_vs_opus,only_a,0,exact
+Table I.1,setup.onescreen_extra,twin_vs_opus,only_b,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2,setup.onescreen_extra,always_zero,correct,3,exact
+Table I.1,setup.onescreen_extra,twin_vs_always_zero,only_a,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_always_zero,only_b,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_always_zero,mcnemar_p,1.0,exact
+Table 2,setup.onescreen_extra,sonnet,correct,3,exact
+Table I.1,setup.onescreen_extra,twin_vs_sonnet,only_a,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_sonnet,only_b,1,exact
+Table I.1,setup.onescreen_extra,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.onescreen_extra,history,truth_zero,3,exact
+Table I.2,setup.onescreen_extra,twin,zero_answers,6,exact
+Appendix F,setup.onescreen_extra,twin,outcome_group_acc,0.43,exact
+Appendix F,setup.onescreen_extra,twin,balanced_acc,0.31,exact
+Appendix F,setup.onescreen_extra,twin,kappa,0.02,exact
+Appendix F,setup.onescreen_extra,twin,opposite_sign,0,exact
+Appendix F,setup.onescreen_extra,haiku,outcome_group_acc,0.37,exact
+Appendix F,setup.onescreen_extra,haiku,balanced_acc,0.28,exact
+Appendix F,setup.onescreen_extra,haiku,kappa,-0.03,exact
+Appendix F,setup.onescreen_extra,opus,outcome_group_acc,0.53,exact
+Appendix F,setup.onescreen_extra,opus,balanced_acc,0.39,exact
+Appendix F,setup.onescreen_extra,opus,kappa,0.11,exact
+Table 3,summary27.first,twin,correct,17,exact
+Table 3,summary27.first,twin,n,27,exact
+Table 3,summary27.first,twin,wilson_low_pct,44.2,exact
+Table 3,summary27.first,twin,wilson_high_pct,78.5,exact
+Table I.3,summary27.first,twin_vs_haiku,only_a,8,exact
+Table I.3,summary27.first,twin_vs_haiku,only_b,4,exact
+Table I.3,summary27.first,twin_vs_haiku,delta_pp,14.8,exact
+Table I.3,summary27.first,twin_vs_haiku,tango_low_pp,-10.9,exact
+Table I.3,summary27.first,twin_vs_haiku,tango_high_pp,38.6,exact
+Table I.3,summary27.first,twin_vs_haiku,cpb_low_pp,-24.3,exact
+Table I.3,summary27.first,twin_vs_haiku,cpb_high_pp,49.5,exact
+Table I.3,summary27.first,twin_vs_haiku,mcnemar_p,0.388,exact
+Table I.3,summary27.first,twin_vs_opus,only_a,5,exact
+Table I.3,summary27.first,twin_vs_opus,only_b,4,exact
+Table I.3,summary27.first,twin_vs_opus,delta_pp,3.7,exact
+Table I.3,summary27.first,twin_vs_opus,tango_low_pp,-19.2,exact
+Table I.3,summary27.first,twin_vs_opus,tango_high_pp,26.3,exact
+Table I.3,summary27.first,twin_vs_opus,cpb_low_pp,-31.2,exact
+Table I.3,summary27.first,twin_vs_opus,cpb_high_pp,37.4,exact
+Table I.3,summary27.first,twin_vs_opus,mcnemar_p,1.0,exact
+Table 5,summary27.first,twin,outcome_group_acc,0.64,exact
+Table 5,summary27.first,twin,balanced_acc,0.58,exact
+Table 5,summary27.first,twin,kappa,0.35,exact
+Table 5,summary27.first,twin,effect_correct,6,exact
+Table 5,summary27.first,twin,effect_n,14,exact
+Table 5,summary27.first,twin,null_correct,11,exact
+Table 5,summary27.first,twin,null_n,13,exact
+Table 5,summary27.first,haiku,outcome_group_acc,0.48,exact
+Table 5,summary27.first,haiku,balanced_acc,0.44,exact
+Table 5,summary27.first,haiku,kappa,0.14,exact
+Table 5,summary27.first,opus,outcome_group_acc,0.6,exact
+Table 5,summary27.first,opus,balanced_acc,0.51,exact
+Table 5,summary27.first,opus,kappa,0.28,exact
+Section 6.4 / Appendix F,summary27.first,twin,outcome_group_ci_low,0.47,approx
+Section 6.4 / Appendix F,summary27.first,twin,outcome_group_ci_high,0.8,approx
+Section 6.4 / Appendix F,summary27.first,haiku,outcome_group_ci_high,0.67,approx
+Section 6.4 / Appendix F,summary27.first,opus,outcome_group_ci_low,0.42,approx
+Table 3,summary27.replication,twin,correct,16,exact
+Table 3,summary27.replication,twin,n,27,exact
+Table 3,summary27.replication,twin,wilson_low_pct,40.7,exact
+Table 3,summary27.replication,twin,wilson_high_pct,75.5,exact
+Table I.3,summary27.replication,twin_vs_haiku,only_a,8,exact
+Table I.3,summary27.replication,twin_vs_haiku,only_b,5,exact
+Table I.3,summary27.replication,twin_vs_haiku,delta_pp,11.1,exact
+Table I.3,summary27.replication,twin_vs_haiku,tango_low_pp,-15.5,exact
+Table I.3,summary27.replication,twin_vs_haiku,tango_high_pp,36.1,exact
+Table I.3,summary27.replication,twin_vs_haiku,cpb_low_pp,-28.7,exact
+Table I.3,summary27.replication,twin_vs_haiku,cpb_high_pp,47.6,exact
+Table I.3,summary27.replication,twin_vs_haiku,mcnemar_p,0.581,exact
+Table I.3,summary27.replication,twin_vs_opus,only_a,5,exact
+Table I.3,summary27.replication,twin_vs_opus,only_b,5,exact
+Table I.3,summary27.replication,twin_vs_opus,delta_pp,0.0,exact
+Table I.3,summary27.replication,twin_vs_opus,tango_low_pp,-23.6,exact
+Table I.3,summary27.replication,twin_vs_opus,tango_high_pp,23.6,exact
+Table I.3,summary27.replication,twin_vs_opus,cpb_low_pp,-35.5,exact
+Table I.3,summary27.replication,twin_vs_opus,cpb_high_pp,35.5,exact
+Table I.3,summary27.replication,twin_vs_opus,mcnemar_p,1.0,exact
+Table 5,summary27.replication,twin,outcome_group_acc,0.6,exact
+Table 5,summary27.replication,twin,balanced_acc,0.55,exact
+Table 5,summary27.replication,twin,kappa,0.28,exact
+Table 5,summary27.replication,twin,effect_correct,5,exact
+Table 5,summary27.replication,twin,effect_n,14,exact
+Table 5,summary27.replication,twin,null_correct,11,exact
+Table 5,summary27.replication,twin,null_n,13,exact
+Table 3,summary27.pooled,twin,correct,14,exact
+Table 3,summary27.pooled,twin,n,27,exact
+Table 3,summary27.pooled,twin,wilson_low_pct,34.0,exact
+Table 3,summary27.pooled,twin,wilson_high_pct,69.3,exact
+Table I.3,summary27.pooled,twin_vs_haiku,only_a,7,exact
+Table I.3,summary27.pooled,twin_vs_haiku,only_b,6,exact
+Table I.3,summary27.pooled,twin_vs_haiku,delta_pp,3.7,exact
+Table I.3,summary27.pooled,twin_vs_haiku,tango_low_pp,-22.6,exact
+Table I.3,summary27.pooled,twin_vs_haiku,tango_high_pp,29.5,exact
+Table I.3,summary27.pooled,twin_vs_haiku,cpb_low_pp,-35.3,exact
+Table I.3,summary27.pooled,twin_vs_haiku,cpb_high_pp,41.6,exact
+Table I.3,summary27.pooled,twin_vs_haiku,mcnemar_p,1.0,exact
+Table I.3,summary27.pooled,twin_vs_opus,only_a,5,exact
+Table I.3,summary27.pooled,twin_vs_opus,only_b,7,exact
+Table I.3,summary27.pooled,twin_vs_opus,delta_pp,-7.4,exact
+Table I.3,summary27.pooled,twin_vs_opus,tango_low_pp,-32.1,exact
+Table I.3,summary27.pooled,twin_vs_opus,tango_high_pp,18.2,exact
+Table I.3,summary27.pooled,twin_vs_opus,cpb_low_pp,-43.7,exact
+Table I.3,summary27.pooled,twin_vs_opus,cpb_high_pp,31.1,exact
+Table I.3,summary27.pooled,twin_vs_opus,mcnemar_p,0.774,exact
+Table 5,summary27.pooled,twin,outcome_group_acc,0.52,exact
+Table 5,summary27.pooled,twin,balanced_acc,0.5,exact
+Table 5,summary27.pooled,twin,kappa,0.17,exact
+Table 5,summary27.pooled,twin,effect_correct,5,exact
+Table 5,summary27.pooled,twin,effect_n,14,exact
+Table 5,summary27.pooled,twin,null_correct,9,exact
+Table 5,summary27.pooled,twin,null_n,13,exact
+4.3,bank47,haiku,correct,24,exact
+Appendix D,bank47,haiku_first_answer,correct,24,exact
+6.4,bank47,haiku_vs_always_zero,only_a,11,exact
+6.4,bank47,haiku_vs_always_zero,only_b,9,exact
+6.4,bank47,haiku_vs_always_zero,mcnemar_p,0.824,exact
+Appendix F,bank47,haiku,outcome_group_acc,0.52,exact
+Appendix F,bank47,haiku,balanced_acc,0.43,exact
+Appendix F,bank47,haiku,kappa,0.18,exact
+6.4,bank47,haiku,kappa_ci_low,-0.05,approx
+6.4,bank47,haiku,kappa_ci_high,0.4,approx
+4.3,bank47,sonnet,correct,24,exact
+Appendix D,bank47,sonnet_first_answer,correct,25,exact
+6.4,bank47,sonnet_vs_always_zero,only_a,7,exact
+6.4,bank47,sonnet_vs_always_zero,only_b,5,exact
+6.4,bank47,sonnet_vs_always_zero,mcnemar_p,0.774,exact
+Appendix F,bank47,sonnet,outcome_group_acc,0.53,exact
+Appendix F,bank47,sonnet,balanced_acc,0.39,exact
+Appendix F,bank47,sonnet,kappa,0.15,exact
+6.4,bank47,sonnet,kappa_ci_low,-0.07,approx
+6.4,bank47,sonnet,kappa_ci_high,0.36,approx
+4.3,bank47,opus,correct,26,exact
+Appendix D,bank47,opus_first_answer,correct,26,exact
+6.4,bank47,opus_vs_always_zero,only_a,9,exact
+6.4,bank47,opus_vs_always_zero,only_b,5,exact
+6.4,bank47,opus_vs_always_zero,mcnemar_p,0.424,exact
+Appendix F,bank47,opus,outcome_group_acc,0.57,exact
+Appendix F,bank47,opus,balanced_acc,0.45,exact
+Appendix F,bank47,opus,kappa,0.21,exact
+6.4,bank47,opus,kappa_ci_low,-0.03,approx
+6.4,bank47,opus,kappa_ci_high,0.44,approx
+4.3,bank47,always_zero,correct,22,exact
+6.2,all44.first,twin,n,44,exact
+6.2,all44.first,twin,correct,25,exact
+Table 5,all44.first,twin,outcome_group_acc,0.58,exact
+Table 5,all44.first,twin,balanced_acc,0.49,exact
+Table 5,all44.first,twin,kappa,0.23,exact
+Table 5,all44.first,twin,effect_correct,7,exact
+Table 5,all44.first,twin,effect_n,23,exact
+Table 5,all44.first,twin,null_correct,18,exact
+Table 5,all44.first,twin,null_n,21,exact
+6.2,all44.first,haiku,correct,23,exact
+6.2,all44.first,opus,correct,26,exact
+6.2,all44.first,always_zero,correct,21,exact
+6.2,all44.first,sonnet,correct,24,exact
+Table 5,all44.first,haiku,outcome_group_acc,0.53,exact
+Table 5,all44.first,haiku,balanced_acc,0.44,exact
+Table 5,all44.first,haiku,kappa,0.19,exact
+Table 5,all44.first,opus,outcome_group_acc,0.6,exact
+Table 5,all44.first,opus,balanced_acc,0.48,exact
+Table 5,all44.first,opus,kappa,0.27,exact
+6.2,all44.replication,twin,correct,24,exact
+Table 5,all44.replication,twin,outcome_group_acc,0.56,exact
+Table 5,all44.replication,twin,balanced_acc,0.46,exact
+Table 5,all44.replication,twin,kappa,0.19,exact
+Table 5,all44.replication,twin,effect_correct,6,exact
+Table 5,all44.replication,twin,effect_n,23,exact
+Table 5,all44.replication,twin,null_correct,18,exact
+Table 5,all44.replication,twin,null_n,21,exact
+6.2,all44.pooled,twin,correct,22,exact
+Table 5,all44.pooled,twin,outcome_group_acc,0.51,exact
+Table 5,all44.pooled,twin,balanced_acc,0.43,exact
+Table 5,all44.pooled,twin,kappa,0.12,exact
+Table 5,all44.pooled,twin,effect_correct,6,exact
+Table 5,all44.pooled,twin,effect_n,23,exact
+Table 5,all44.pooled,twin,null_correct,16,exact
+Table 5,all44.pooled,twin,null_n,21,exact
+Table 4 / 6.3 / H.3,rank.main33,,clicks_rho,-0.061,reported
+Table 4 / 6.3 / H.3,rank.main33,,clicks_p,0.636,reported
+Table 4 / 6.3 / H.3,rank.main33,,opus_rho,0.266,reported
+Table 4 / 6.3 / H.3,rank.main33,,opus_p,0.064,reported
+Table 4 / 6.3 / H.3,rank.main33,,probs_rho,0.195,reported
+Table 4 / 6.3 / H.3,rank.main33,,probs_p,0.134,reported
+Table 4 / 6.3 / H.3,rank.main33,,clicks_delta_ci_low,-0.059,reported
+Table 4 / 6.3 / H.3,rank.main33,,clicks_delta_ci_high,0.634,reported
+Table 4 / 6.3 / H.3,rank.main33,,probs_delta_ci_low,-0.314,reported
+Table 4 / 6.3 / H.3,rank.main33,,probs_delta_ci_high,0.398,reported
+Table 4 / 6.3 / H.3,rank.clicks,,partial,-0.127,reported
+Table 4 / 6.3 / H.3,rank.clicks,,partial_ci_low,-0.43,reported
+Table 4 / 6.3 / H.3,rank.clicks,,partial_ci_high,0.21,reported
+Table 4 / 6.3 / H.3,rank.clicks,,combined,0.131,reported
+Table 4 / 6.3 / H.3,rank.clicks,,combined_minus_opus_ci_low,-0.32,reported
+Table 4 / 6.3 / H.3,rank.clicks,,combined_minus_opus_ci_high,0.06,reported
+Table 4 / 6.3 / H.3,rank.probs,,partial,0.072,reported
+Table 4 / 6.3 / H.3,rank.probs,,partial_ci_low,-0.35,reported
+Table 4 / 6.3 / H.3,rank.probs,,partial_ci_high,0.43,reported
+Table 4 / 6.3 / H.3,rank.probs,,combined,0.265,reported
+Table 4 / 6.3 / H.3,rank.probs,,combined_minus_opus_ci_low,-0.18,reported
+Table 4 / 6.3 / H.3,rank.probs,,combined_minus_opus_ci_high,0.21,reported
+Table 4 / 6.3 / H.3,rank.probs,,twin_opus_rho,0.506,reported
+Table 4 / 6.3 / H.3,rank.relative,,n,31,reported
+Table 4 / 6.3 / H.3,rank.relative,,rho,-0.024,reported
+Table 4 / 6.3 / H.3,rank.relative,,opus_rho,0.234,reported
+Table 4 / 6.3 / H.3,rank.all36,,clicks_rho,0.109,reported
+Table 4 / 6.3 / H.3,rank.all36,,opus_rho,0.421,reported
+Table 4 / 6.3 / H.3,rank.all36,,opus_p,0.006,reported
+Table 4 / 6.3 / H.3,rank.all36,,probs_rho,0.259,reported
+Table 4 / 6.3 / H.3,rank.all36,,probs_p,0.061,reported
+5.3,power,,tests_needed_discordance_20pct,155,exact
+5.3,power,,tests_needed_discordance_30pct,234,exact
+5.3,power,,tests_needed_discordance_50pct,391,exact
+Appendix F (binary),binary.action_list,history,n,4,exact
+Appendix F (binary),binary.action_list,history,truth_plus,2,exact
+Appendix F (binary),binary.action_list,history,truth_minus,2,exact
+Appendix F (binary),binary.action_list,twin_point,correct,0,exact
+Appendix F (binary),binary.action_list,always_plus,correct,2,exact
+Appendix F (binary),binary.action_list,twin_point_vs_always_plus,only_a,0,exact
+Appendix F (binary),binary.action_list,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.action_list,twin_point_vs_always_plus,mcnemar_p,0.5,exact
+Appendix F (binary),binary.html,history,n,4,exact
+Appendix F (binary),binary.html,history,truth_plus,2,exact
+Appendix F (binary),binary.html,history,truth_minus,2,exact
+Appendix F (binary),binary.html,twin_point,correct,2,exact
+Appendix F (binary),binary.html,always_plus,correct,2,exact
+Appendix F (binary),binary.html,twin_point_vs_always_plus,only_a,2,exact
+Appendix F (binary),binary.html,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.html,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.coordinates,history,n,4,exact
+Appendix F (binary),binary.coordinates,history,truth_plus,2,exact
+Appendix F (binary),binary.coordinates,history,truth_minus,2,exact
+Appendix F (binary),binary.coordinates,twin_point,correct,2,exact
+Appendix F (binary),binary.coordinates,always_plus,correct,2,exact
+Appendix F (binary),binary.coordinates,twin_point_vs_always_plus,only_a,1,exact
+Appendix F (binary),binary.coordinates,twin_point_vs_always_plus,only_b,1,exact
+Appendix F (binary),binary.coordinates,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.fold,history,n,5,exact
+Appendix F (binary),binary.fold,history,truth_plus,4,exact
+Appendix F (binary),binary.fold,history,truth_minus,1,exact
+Appendix F (binary),binary.fold,twin_point,correct,3,exact
+Appendix F (binary),binary.fold,always_plus,correct,4,exact
+Appendix F (binary),binary.fold,twin_point_vs_always_plus,only_a,1,exact
+Appendix F (binary),binary.fold,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.fold,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.heldout_screens,history,n,7,exact
+Appendix F (binary),binary.heldout_screens,history,truth_plus,4,exact
+Appendix F (binary),binary.heldout_screens,history,truth_minus,3,exact
+Appendix F (binary),binary.heldout_screens,twin_point,correct,4,exact
+Appendix F (binary),binary.heldout_screens,always_plus,correct,4,exact
+Appendix F (binary),binary.heldout_screens,twin_point_vs_always_plus,only_a,2,exact
+Appendix F (binary),binary.heldout_screens,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.heldout_screens,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.reco_first,history,n,4,exact
+Appendix F (binary),binary.reco_first,history,truth_plus,4,exact
+Appendix F (binary),binary.reco_first,history,truth_minus,0,exact
+Appendix F (binary),binary.reco_first,twin_point,correct,3,exact
+Appendix F (binary),binary.reco_first,always_plus,correct,4,exact
+Appendix F (binary),binary.reco_first,twin_point_vs_always_plus,only_a,0,exact
+Appendix F (binary),binary.reco_first,twin_point_vs_always_plus,only_b,1,exact
+Appendix F (binary),binary.reco_first,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.reco_replication,history,n,4,exact
+Appendix F (binary),binary.reco_replication,history,truth_plus,4,exact
+Appendix F (binary),binary.reco_replication,history,truth_minus,0,exact
+Appendix F (binary),binary.reco_replication,twin_point,correct,2,exact
+Appendix F (binary),binary.reco_replication,always_plus,correct,4,exact
+Appendix F (binary),binary.reco_replication,twin_point_vs_always_plus,only_a,0,exact
+Appendix F (binary),binary.reco_replication,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.reco_replication,twin_point_vs_always_plus,mcnemar_p,0.5,exact
+Appendix F (binary),binary.reco_pooled,history,n,4,exact
+Appendix F (binary),binary.reco_pooled,history,truth_plus,4,exact
+Appendix F (binary),binary.reco_pooled,history,truth_minus,0,exact
+Appendix F (binary),binary.reco_pooled,twin_point,correct,3,exact
+Appendix F (binary),binary.reco_pooled,always_plus,correct,4,exact
+Appendix F (binary),binary.reco_pooled,twin_point_vs_always_plus,only_a,0,exact
+Appendix F (binary),binary.reco_pooled,twin_point_vs_always_plus,only_b,1,exact
+Appendix F (binary),binary.reco_pooled,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.design,history,n,3,exact
+Appendix F (binary),binary.design,history,truth_plus,2,exact
+Appendix F (binary),binary.design,history,truth_minus,1,exact
+Appendix F (binary),binary.design,twin_point,correct,3,exact
+Appendix F (binary),binary.design,always_plus,correct,2,exact
+Appendix F (binary),binary.design,twin_point_vs_always_plus,only_a,1,exact
+Appendix F (binary),binary.design,twin_point_vs_always_plus,only_b,0,exact
+Appendix F (binary),binary.design,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.catalogue,history,n,10,exact
+Appendix F (binary),binary.catalogue,history,truth_plus,6,exact
+Appendix F (binary),binary.catalogue,history,truth_minus,4,exact
+Appendix F (binary),binary.catalogue,twin_point,correct,5,exact
+Appendix F (binary),binary.catalogue,always_plus,correct,6,exact
+Appendix F (binary),binary.catalogue,twin_point_vs_always_plus,only_a,3,exact
+Appendix F (binary),binary.catalogue,twin_point_vs_always_plus,only_b,4,exact
+Appendix F (binary),binary.catalogue,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.cut2,history,n,10,exact
+Appendix F (binary),binary.cut2,history,truth_plus,6,exact
+Appendix F (binary),binary.cut2,history,truth_minus,4,exact
+Appendix F (binary),binary.cut2,twin_point,correct,5,exact
+Appendix F (binary),binary.cut2,always_plus,correct,6,exact
+Appendix F (binary),binary.cut2,twin_point_vs_always_plus,only_a,2,exact
+Appendix F (binary),binary.cut2,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.cut2,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.cut3,history,n,10,exact
+Appendix F (binary),binary.cut3,history,truth_plus,6,exact
+Appendix F (binary),binary.cut3,history,truth_minus,4,exact
+Appendix F (binary),binary.cut3,twin_point,correct,4,exact
+Appendix F (binary),binary.cut3,always_plus,correct,6,exact
+Appendix F (binary),binary.cut3,twin_point_vs_always_plus,only_a,1,exact
+Appendix F (binary),binary.cut3,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.cut3,twin_point_vs_always_plus,mcnemar_p,0.625,exact
+Appendix F (binary),binary.onescreen_extra,history,n,5,exact
+Appendix F (binary),binary.onescreen_extra,history,truth_plus,4,exact
+Appendix F (binary),binary.onescreen_extra,history,truth_minus,1,exact
+Appendix F (binary),binary.onescreen_extra,twin_point,correct,3,exact
+Appendix F (binary),binary.onescreen_extra,always_plus,correct,4,exact
+Appendix F (binary),binary.onescreen_extra,twin_point_vs_always_plus,only_a,1,exact
+Appendix F (binary),binary.onescreen_extra,twin_point_vs_always_plus,only_b,2,exact
+Appendix F (binary),binary.onescreen_extra,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.summary27.first,history,n,14,exact
+Appendix F (binary),binary.summary27.first,history,truth_plus,10,exact
+Appendix F (binary),binary.summary27.first,history,truth_minus,4,exact
+Appendix F (binary),binary.summary27.first,twin_point,correct,10,exact
+Appendix F (binary),binary.summary27.first,always_plus,correct,10,exact
+Appendix F (binary),binary.summary27.first,twin_point_vs_always_plus,only_a,3,exact
+Appendix F (binary),binary.summary27.first,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.summary27.first,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.summary27.replication,history,n,14,exact
+Appendix F (binary),binary.summary27.replication,history,truth_plus,10,exact
+Appendix F (binary),binary.summary27.replication,history,truth_minus,4,exact
+Appendix F (binary),binary.summary27.replication,twin_point,correct,9,exact
+Appendix F (binary),binary.summary27.replication,always_plus,correct,10,exact
+Appendix F (binary),binary.summary27.replication,twin_point_vs_always_plus,only_a,3,exact
+Appendix F (binary),binary.summary27.replication,twin_point_vs_always_plus,only_b,4,exact
+Appendix F (binary),binary.summary27.replication,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.summary27.pooled,history,n,14,exact
+Appendix F (binary),binary.summary27.pooled,history,truth_plus,10,exact
+Appendix F (binary),binary.summary27.pooled,history,truth_minus,4,exact
+Appendix F (binary),binary.summary27.pooled,twin_point,correct,10,exact
+Appendix F (binary),binary.summary27.pooled,always_plus,correct,10,exact
+Appendix F (binary),binary.summary27.pooled,twin_point_vs_always_plus,only_a,3,exact
+Appendix F (binary),binary.summary27.pooled,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.summary27.pooled,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.main33.clicks,history,n,17,exact
+Appendix F (binary),binary.main33.clicks,history,truth_plus,11,exact
+Appendix F (binary),binary.main33.clicks,history,truth_minus,6,exact
+Appendix F (binary),binary.main33.clicks,twin_point,correct,8,exact
+Appendix F (binary),binary.main33.clicks,always_plus,correct,11,exact
+Appendix F (binary),binary.main33.clicks,twin_point_vs_always_plus,only_a,4,exact
+Appendix F (binary),binary.main33.clicks,twin_point_vs_always_plus,only_b,7,exact
+Appendix F (binary),binary.main33.clicks,twin_point_vs_always_plus,mcnemar_p,0.549,exact
+Appendix F (binary),binary.main33.probs,history,n,17,exact
+Appendix F (binary),binary.main33.probs,history,truth_plus,11,exact
+Appendix F (binary),binary.main33.probs,history,truth_minus,6,exact
+Appendix F (binary),binary.main33.probs,twin_point,correct,11,exact
+Appendix F (binary),binary.main33.probs,always_plus,correct,11,exact
+Appendix F (binary),binary.main33.probs,twin_point_vs_always_plus,only_a,3,exact
+Appendix F (binary),binary.main33.probs,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.main33.probs,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+Appendix F (binary),binary.all36.clicks,history,n,20,exact
+Appendix F (binary),binary.all36.clicks,history,truth_plus,13,exact
+Appendix F (binary),binary.all36.clicks,history,truth_minus,7,exact
+Appendix F (binary),binary.all36.clicks,twin_point,correct,11,exact
+Appendix F (binary),binary.all36.clicks,always_plus,correct,13,exact
+Appendix F (binary),binary.all36.clicks,twin_point_vs_always_plus,only_a,5,exact
+Appendix F (binary),binary.all36.clicks,twin_point_vs_always_plus,only_b,7,exact
+Appendix F (binary),binary.all36.clicks,twin_point_vs_always_plus,mcnemar_p,0.774,exact
+Appendix F (binary),binary.all36.probs,history,n,20,exact
+Appendix F (binary),binary.all36.probs,history,truth_plus,13,exact
+Appendix F (binary),binary.all36.probs,history,truth_minus,7,exact
+Appendix F (binary),binary.all36.probs,twin_point,correct,14,exact
+Appendix F (binary),binary.all36.probs,always_plus,correct,13,exact
+Appendix F (binary),binary.all36.probs,twin_point_vs_always_plus,only_a,4,exact
+Appendix F (binary),binary.all36.probs,twin_point_vs_always_plus,only_b,3,exact
+Appendix F (binary),binary.all36.probs,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+5.5 / H.5,replicability.bank,,same_verdict,0.82,reported
+5.5 / H.5,replicability.s27,,same_verdict,0.83,reported
+5.5 / H.5,replicability.main33,,same_verdict,0.81,reported
+5.5 / H.5,replicability.bank,,effect,0.9,reported
+5.5 / H.5,replicability.bank,,null,0.74,reported
+5.5 / H.5,replicability.bank,,two_reruns_all,0.86,reported
+4.3,frames43,,n,43,exact
+4.3,frames43,haiku_frames,correct,21,exact
+4.3,frames43,haiku,correct,22,exact
+4.3,frames43,haiku_frames_vs_haiku,only_a,5,exact
+4.3,frames43,haiku_frames_vs_haiku,only_b,6,exact
+4.3,frames43,haiku_frames_vs_haiku,mcnemar_p,1.0,exact
+4.3,frames43,sonnet_frames,correct,23,exact
+4.3,frames43,sonnet,correct,23,exact
+4.3,frames43,sonnet_frames_vs_sonnet,only_a,3,exact
+4.3,frames43,sonnet_frames_vs_sonnet,only_b,3,exact
+4.3,frames43,sonnet_frames_vs_sonnet,mcnemar_p,1.0,exact
+4.3,frames43,opus_frames,correct,21,exact
+4.3,frames43,opus,correct,25,exact
+4.3,frames43,opus_frames_vs_opus,only_a,1,exact
+4.3,frames43,opus_frames_vs_opus,only_b,5,exact
+4.3,frames43,opus_frames_vs_opus,mcnemar_p,0.219,exact
+8.10,summary27.first.combination,comb_haiku_tie,correct,13,exact
+8.10,summary27.first.combination,haiku,correct,13,exact
+8.10,summary27.first.combination,comb_haiku_tie_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.first.combination,comb_haiku_agree,correct,16,exact
+8.10,summary27.first.combination,comb_haiku_nonzero,correct,14,exact
+8.10,summary27.first.combination,comb_haiku_nonzero_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.first.combination,comb_opus_tie,correct,16,exact
+8.10,summary27.first.combination,opus,correct,16,exact
+8.10,summary27.first.combination,comb_opus_tie_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.first.combination,comb_opus_agree,correct,17,exact
+8.10,summary27.first.combination,comb_opus_agree_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.first.combination,comb_opus_nonzero,correct,16,exact
+8.10,summary27.first.combination,comb_opus_nonzero_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.replication.combination,comb_haiku_tie,correct,13,exact
+8.10,summary27.replication.combination,haiku,correct,13,exact
+8.10,summary27.replication.combination,comb_haiku_tie_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.replication.combination,comb_haiku_agree,correct,15,exact
+8.10,summary27.replication.combination,comb_haiku_agree_vs_haiku,mcnemar_p,0.754,exact
+8.10,summary27.replication.combination,comb_haiku_nonzero,correct,14,exact
+8.10,summary27.replication.combination,comb_haiku_nonzero_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.replication.combination,comb_opus_tie,correct,16,exact
+8.10,summary27.replication.combination,opus,correct,16,exact
+8.10,summary27.replication.combination,comb_opus_tie_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.replication.combination,comb_opus_agree,correct,16,exact
+8.10,summary27.replication.combination,comb_opus_agree_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.replication.combination,comb_opus_nonzero,correct,16,exact
+8.10,summary27.replication.combination,comb_opus_nonzero_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.pooled.combination,comb_haiku_tie,correct,13,exact
+8.10,summary27.pooled.combination,haiku,correct,13,exact
+8.10,summary27.pooled.combination,comb_haiku_tie_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.pooled.combination,comb_haiku_agree,correct,15,exact
+8.10,summary27.pooled.combination,comb_haiku_agree_vs_haiku,mcnemar_p,0.754,exact
+8.10,summary27.pooled.combination,comb_haiku_nonzero,correct,13,exact
+8.10,summary27.pooled.combination,comb_haiku_nonzero_vs_haiku,mcnemar_p,1.0,exact
+8.10,summary27.pooled.combination,comb_opus_tie,correct,16,exact
+8.10,summary27.pooled.combination,opus,correct,16,exact
+8.10,summary27.pooled.combination,comb_opus_tie_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.pooled.combination,comb_opus_agree,correct,16,exact
+8.10,summary27.pooled.combination,comb_opus_agree_vs_opus,mcnemar_p,1.0,exact
+8.10,summary27.pooled.combination,comb_opus_nonzero,correct,14,exact
+8.10,summary27.pooled.combination,comb_opus_nonzero_vs_opus,mcnemar_p,0.688,exact
+8.8,heldout12.agent_model,twin_sonnet_agent,correct,6,exact
+8.8,heldout12.agent_model,twin_haiku_rerun,correct,6,exact
+8.8,heldout12.agent_model,,n,12,exact
+8.8,heldout12.agent_model,twin_sonnet_agent_vs_twin_haiku_rerun,same_sign,12,reported
+8.8,heldout12.agent_model,twin_haiku_rerun_vs_twin,same_sign,12,reported
+D,heldout12.agent_model,twin_sonnet_agent,pairs_min,75,reported
+D,heldout12.agent_model,twin_sonnet_agent,pairs_max,80,reported
+5.1,all_twin_runs,twin,sign_rule_violations,0,reported
+7.1 / Table 6,calibration.H1,agents,before_pct,18.2,exact
+7.1 / Table 6,calibration.H1,agents,after_pct,35.8,exact
+7.1,calibration.H1,agents,ratio_to_humans,0.8,exact
+7.1,calibration.H1,agents,ratio_ci_low,0.53,exact
+7.1,calibration.H1,agents,ratio_ci_high,1.1,exact
+7.1 / Table 6,calibration.Add from a product card opened from search,agents,before_pct,70.9,exact
+7.1 / Table 6,calibration.Add from a product card opened from search,agents,after_pct,37.5,exact
+7.1 / Table 6,calibration.Add from a product card opened from a category,agents,before_pct,68.2,exact
+7.1 / Table 6,calibration.Add from a product card opened from a category,agents,after_pct,52.5,exact
+7.1 / Table 6,calibration.Add from the search results page,agents,before_pct,65.5,exact
+7.1 / Table 6,calibration.Add from the search results page,agents,after_pct,57.5,exact
+7.1 / Table 6,calibration.Add from the category page,agents,before_pct,58.2,exact
+7.1 / Table 6,calibration.Add from the category page,agents,after_pct,40.0,exact
+H.2,direction.first.common,twin_point,n,37,exact
+H.2,direction.first.common,twin_point,correct,17,exact
+H.2,direction.first.common,always_plus,correct,25,exact
+H.2,direction.first.common,twin_point_vs_always_plus,only_a,6,exact
+H.2,direction.first.common,twin_point_vs_always_plus,only_b,14,exact
+H.2,direction.first.common,twin_point_vs_always_plus,mcnemar_p,0.115,exact
+H.2,direction.first.named,twin_point,n,31,exact
+H.2,direction.first.named,twin_point,correct,17,exact
+H.2,direction.first.named,always_plus,correct,20,exact
+H.2,direction.first.named,twin_point_vs_always_plus,only_a,6,exact
+H.2,direction.first.named,twin_point_vs_always_plus,only_b,9,exact
+H.2,direction.first.named,twin_point_vs_always_plus,mcnemar_p,0.607,exact
+H.2,direction.replication.common,twin_point,n,37,exact
+H.2,direction.replication.common,twin_point,correct,16,exact
+H.2,direction.replication.common,always_plus,correct,25,exact
+H.2,direction.replication.common,twin_point_vs_always_plus,only_a,5,exact
+H.2,direction.replication.common,twin_point_vs_always_plus,only_b,14,exact
+H.2,direction.replication.common,twin_point_vs_always_plus,mcnemar_p,0.064,exact
+H.2,direction.replication.named,twin_point,n,31,exact
+H.2,direction.replication.named,twin_point,correct,16,exact
+H.2,direction.replication.named,always_plus,correct,20,exact
+H.2,direction.replication.named,twin_point_vs_always_plus,only_a,5,exact
+H.2,direction.replication.named,twin_point_vs_always_plus,only_b,9,exact
+H.2,direction.replication.named,twin_point_vs_always_plus,mcnemar_p,0.424,exact
+H.2,direction.pooled.common,twin_point,n,37,exact
+H.2,direction.pooled.common,twin_point,correct,18,exact
+H.2,direction.pooled.common,always_plus,correct,25,exact
+H.2,direction.pooled.common,twin_point_vs_always_plus,only_a,6,exact
+H.2,direction.pooled.common,twin_point_vs_always_plus,only_b,13,exact
+H.2,direction.pooled.named,twin_point,n,32,exact
+H.2,direction.pooled.named,twin_point,correct,18,exact
+H.2,direction.pooled.named,always_plus,correct,21,exact
+H.2,direction.pooled.named,twin_point_vs_always_plus,only_a,6,exact
+H.2,direction.pooled.named,twin_point_vs_always_plus,only_b,9,exact
+H.2,direction.pooled.named,twin_point_vs_always_plus,mcnemar_p,0.607,exact
+H.2,direction,history,tests_with_z,40,reported
+H.2,direction,history,positive_z,28,reported
+H.2,direction.haiku_named,haiku,n,19,exact
+H.2,direction.haiku_named,haiku,correct,14,exact
+H.2,direction.haiku_named,always_plus,correct,16,exact
+H.2,direction.sonnet_named,sonnet,n,11,exact
+H.2,direction.sonnet_named,sonnet,correct,9,exact
+H.2,direction.sonnet_named,always_plus,correct,9,exact
+H.2,direction.opus_named,opus,n,13,exact
+H.2,direction.opus_named,opus,correct,10,exact
+H.2,direction.opus_named,always_plus,correct,10,exact
+6.2,summary27.first,twin_vs_always_zero,only_a,6,exact
+6.2,summary27.first,twin_vs_always_zero,only_b,2,exact
+6.2,summary27.first,twin_vs_always_zero,mcnemar_p,0.289,exact
+6.2,summary27.first,twin,kappa_ci_low,0.01,approx
+6.2,summary27.first,twin,kappa_ci_high,0.65,approx
+6.2,all44.first,twin_vs_always_zero,only_a,7,exact
+6.2,all44.first,twin_vs_always_zero,only_b,3,exact
+6.2,all44.first,twin_vs_always_zero,mcnemar_p,0.344,exact
+6.2,all44.first,twin,kappa_ci_low,0.0,approx
+6.2,all44.first,twin,kappa_ci_high,0.46,approx
+6.2,summary27.replication,twin_vs_always_zero,only_a,5,exact
+6.2,summary27.replication,twin_vs_always_zero,only_b,2,exact
+6.2,summary27.replication,twin_vs_always_zero,mcnemar_p,0.453,exact
+6.2,summary27.replication,twin,kappa_ci_low,-0.05,approx
+6.2,summary27.replication,twin,kappa_ci_high,0.57,approx
+6.2,all44.replication,twin_vs_always_zero,only_a,6,exact
+6.2,all44.replication,twin_vs_always_zero,only_b,3,exact
+6.2,all44.replication,twin,kappa_ci_low,-0.04,approx
+6.2,all44.replication,twin,kappa_ci_high,0.41,approx
+6.2,summary27.pooled,twin_vs_always_zero,only_a,5,exact
+6.2,summary27.pooled,twin_vs_always_zero,only_b,4,exact
+6.2,summary27.pooled,twin_vs_always_zero,mcnemar_p,1.0,exact
+6.2,summary27.pooled,twin,kappa_ci_low,-0.17,approx
+6.2,summary27.pooled,twin,kappa_ci_high,0.48,approx
+6.2,all44.pooled,twin_vs_always_zero,only_a,6,exact
+6.2,all44.pooled,twin_vs_always_zero,only_b,5,exact
+6.2,all44.pooled,twin_vs_always_zero,mcnemar_p,1.0,exact
+6.2,all44.pooled,twin,kappa_ci_low,-0.11,approx
+6.2,all44.pooled,twin,kappa_ci_high,0.35,approx
+H.6,bank47,haiku,correct_minus,1,exact
+H.6,bank47,haiku,truth_minus,7,exact
+H.6,bank47,haiku,correct_plus,10,exact
+H.6,bank47,haiku,truth_plus,18,exact
+H.6,bank47,sonnet,correct_minus,0,exact
+H.6,bank47,sonnet,truth_minus,7,exact
+H.6,bank47,sonnet,correct_plus,7,exact
+H.6,bank47,sonnet,truth_plus,18,exact
+H.6,bank47,opus,correct_minus,1,exact
+H.6,bank47,opus,truth_minus,7,exact
+H.6,bank47,opus,correct_plus,8,exact
+H.6,bank47,opus,truth_plus,18,exact
+H.6,all44.first,twin,correct_minus,2,exact
+H.6,all44.first,twin,truth_minus,7,exact
+H.6,all44.first,twin,correct_plus,5,exact
+H.6,all44.first,twin,truth_plus,16,exact
+7.1,calibration.H1,agents,paired_diff_pp,17.7,exact
+7.1,calibration.H1,agents,paired_diff_ci_low_pp,4.7,exact
+7.1,calibration.H1,agents,paired_diff_ci_high_pp,31.0,exact
+5.5 / H.5,replicability.spike0.5,,same_verdict,0.888,reported
+5.5 / H.5,replicability.spike0.5,,two_reruns,0.737,reported
+5.5 / H.5,replicability.spike0.7,,same_verdict,0.875,reported
+5.5 / H.5,replicability.spike0.7,,two_reruns,0.719,reported
+Table 2; 6.2,setup.frozen36,twin,correct,20,exact
+Table 2; 6.2,setup.frozen36,twin,n,36,exact
+Table 2; 6.2,setup.frozen36,twin,wilson_low_pct,39.6,exact
+Table 2; 6.2,setup.frozen36,twin,wilson_high_pct,70.5,exact
+Table 2; 6.2,setup.frozen36,haiku,correct,18,exact
+Table I.1,setup.frozen36,twin_vs_haiku,only_a,6,exact
+Table I.1,setup.frozen36,twin_vs_haiku,only_b,4,exact
+Table I.1,setup.frozen36,twin_vs_haiku,mcnemar_p,0.754,exact
+Table 2; 6.2,setup.frozen36,opus,correct,20,exact
+Table I.1,setup.frozen36,twin_vs_opus,only_a,4,exact
+Table I.1,setup.frozen36,twin_vs_opus,only_b,4,exact
+Table I.1,setup.frozen36,twin_vs_opus,mcnemar_p,1.0,exact
+Table 2; 6.2,setup.frozen36,always_zero,correct,16,exact
+Table I.1,setup.frozen36,twin_vs_always_zero,only_a,7,exact
+Table I.1,setup.frozen36,twin_vs_always_zero,only_b,3,exact
+Table I.1,setup.frozen36,twin_vs_always_zero,mcnemar_p,0.344,exact
+Table 2; 6.2,setup.frozen36,sonnet,correct,19,exact
+Table I.1,setup.frozen36,twin_vs_sonnet,only_a,5,exact
+Table I.1,setup.frozen36,twin_vs_sonnet,only_b,4,exact
+Table I.1,setup.frozen36,twin_vs_sonnet,mcnemar_p,1.0,exact
+Table I.2,setup.frozen36,history,truth_zero,16,exact
+Table I.2,setup.frozen36,twin,zero_answers,24,exact
+Appendix F,setup.frozen36,twin,outcome_group_acc,0.58,exact
+Appendix F,setup.frozen36,twin,balanced_acc,0.49,exact
+Appendix F,setup.frozen36,twin,kappa,0.27,exact
+Appendix F,setup.frozen36,twin,opposite_sign,2,exact
+Appendix F,setup.frozen36,haiku,outcome_group_acc,0.52,exact
+Appendix F,setup.frozen36,haiku,balanced_acc,0.43,exact
+Appendix F,setup.frozen36,haiku,kappa,0.18,exact
+Appendix F,setup.frozen36,opus,outcome_group_acc,0.58,exact
+Appendix F,setup.frozen36,opus,balanced_acc,0.47,exact
+Appendix F,setup.frozen36,opus,kappa,0.24,exact
+6.3,rank.frozen.main33,,rho,-0.081,reported
+6.3,rank.frozen.main33,,p,0.673,reported
+6.2,setup.frozen36,twin,kappa_ci_low,0.02,approx
+6.2,setup.frozen36,twin,kappa_ci_high,0.51,approx
+7.2,probe.KF1,twin,diff_pp,-30.9,exact
+7.2,probe.KF1,twin,ci_low_pp,-39.6,exact
+7.2,probe.KF1,twin,ci_high_pp,-22.8,exact
+7.2,probe.KF1,twin,sign,-,exact
+7.2,probe.KF2,twin,diff_pp,-2.7,exact
+7.2,probe.KF2,twin,ci_low_pp,-8.0,exact
+7.2,probe.KF2,twin,ci_high_pp,2.7,exact
+7.2,probe.KF2,twin,sign,0,exact
+7.2,probe.K4,twin,diff_pp,-18.0,exact
+7.2,probe.K4,twin,ci_high_pp,-10.0,exact
+7.2,probe.K4,twin,sign,-,exact
+7.2,probe.KG1,twin,diff_pp,-5.3,exact
+7.2,probe.KG1,twin,ci_low_pp,-10.0,exact
+7.2,probe.KG1,twin,ci_high_pp,-0.7,exact
+7.2,probe.KG1,twin,sign,-,exact
+7.2,probe.KG2,twin,diff_pp,-6.7,exact
+7.2,probe.KG2,twin,ci_low_pp,-13.3,exact
+7.2,probe.KG2,twin,ci_high_pp,0.0,exact
+7.2,probe.KG2,twin,sign,0,exact
+6.2 / Table H.8.1,blind.broad25,twin,correct,10,exact
+6.2 / Table H.8.1,blind.broad25,always_zero,correct,12,exact
+6.2 / Table H.8.1,blind.broad25,always_plus,correct,7,exact
+6.2 / Table H.8.1,blind.broad25,haiku,correct,11,exact
+6.2 / Table H.8.1,blind.broad25,sonnet,correct,12,exact
+6.2 / Table H.8.1,blind.broad25,opus,correct,15,exact
+6.2 / Table H.8.1,blind.broad25,twin,wilson_low_pct,23.4,exact
+6.2 / Table H.8.1,blind.broad25,twin,wilson_high_pct,59.3,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_always_zero,only_a,4,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_always_zero,only_b,6,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_always_zero,mcnemar_p,0.754,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_haiku,only_a,5,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_haiku,only_b,6,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_haiku,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_opus,only_a,4,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_opus,only_b,9,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_opus,mcnemar_p,0.267,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_sonnet,only_a,3,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_sonnet,only_b,5,exact
+6.2 / Table H.8.1,blind.broad25,twin_vs_sonnet,mcnemar_p,0.727,exact
+6.2 / Table H.8.1,blind.strict8,twin,correct,2,exact
+6.2 / Table H.8.1,blind.strict8,always_zero,correct,3,exact
+6.2 / Table H.8.1,blind.strict8,always_plus,correct,3,exact
+6.2 / Table H.8.1,blind.strict8,haiku,correct,3,exact
+6.2 / Table H.8.1,blind.strict8,sonnet,correct,3,exact
+6.2 / Table H.8.1,blind.strict8,opus,correct,5,exact
+6.2 / Table H.8.1,blind.strict8,twin,wilson_low_pct,7.1,exact
+6.2 / Table H.8.1,blind.strict8,twin,wilson_high_pct,59.1,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_always_zero,only_a,0,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_always_zero,only_b,1,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_always_zero,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_haiku,only_a,2,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_haiku,only_b,3,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_haiku,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_opus,only_a,1,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_opus,only_b,4,exact
+6.2 / Table H.8.1,blind.strict8,twin_vs_opus,mcnemar_p,0.375,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin,correct,10,exact
+6.2 / Table H.8.1,blind.without_exposed20,always_zero,correct,9,exact
+6.2 / Table H.8.1,blind.without_exposed20,always_plus,correct,7,exact
+6.2 / Table H.8.1,blind.without_exposed20,haiku,correct,10,exact
+6.2 / Table H.8.1,blind.without_exposed20,sonnet,correct,11,exact
+6.2 / Table H.8.1,blind.without_exposed20,opus,correct,12,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin,wilson_low_pct,29.9,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin,wilson_high_pct,70.1,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_always_zero,only_a,4,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_always_zero,only_b,3,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_always_zero,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_haiku,only_a,5,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_haiku,only_b,5,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_haiku,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_opus,only_a,4,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_opus,only_b,6,exact
+6.2 / Table H.8.1,blind.without_exposed20,twin_vs_opus,mcnemar_p,0.754,exact
+6.2 / Table H.8.1,blind.exposed5,twin,correct,0,exact
+6.2 / Table H.8.1,blind.exposed5,always_zero,correct,3,exact
+6.2 / Table H.8.1,blind.exposed5,always_plus,correct,0,exact
+6.2 / Table H.8.1,blind.exposed5,haiku,correct,1,exact
+6.2 / Table H.8.1,blind.exposed5,sonnet,correct,1,exact
+6.2 / Table H.8.1,blind.exposed5,opus,correct,3,exact
+6.2 / Table H.8.1,blind.exposed5,twin,wilson_low_pct,0.0,exact
+6.2 / Table H.8.1,blind.exposed5,twin,wilson_high_pct,43.4,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_always_zero,only_a,0,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_always_zero,only_b,3,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_always_zero,mcnemar_p,0.25,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_haiku,only_a,0,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_haiku,only_b,1,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_haiku,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_opus,only_a,0,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_opus,only_b,3,exact
+6.2 / Table H.8.1,blind.exposed5,twin_vs_opus,mcnemar_p,0.25,exact
+6.2 / Table H.8.1,pooled61,twin,correct,30,exact
+6.2 / Table H.8.1,pooled61,always_zero,correct,28,exact
+6.2 / Table H.8.1,pooled61,always_plus,correct,20,exact
+6.2 / Table H.8.1,pooled61,haiku,correct,29,exact
+6.2 / Table H.8.1,pooled61,sonnet,correct,31,exact
+6.2 / Table H.8.1,pooled61,opus,correct,35,exact
+6.2 / Table H.8.1,pooled61,twin,wilson_low_pct,37.1,exact
+6.2 / Table H.8.1,pooled61,twin,wilson_high_pct,61.4,exact
+6.2 / Table H.8.1,pooled61,twin_vs_always_zero,only_a,11,exact
+6.2 / Table H.8.1,pooled61,twin_vs_always_zero,only_b,9,exact
+6.2 / Table H.8.1,pooled61,twin_vs_always_zero,mcnemar_p,0.824,exact
+6.2 / Table H.8.1,pooled61,twin_vs_haiku,only_a,11,exact
+6.2 / Table H.8.1,pooled61,twin_vs_haiku,only_b,10,exact
+6.2 / Table H.8.1,pooled61,twin_vs_haiku,mcnemar_p,1.0,exact
+6.2 / Table H.8.1,pooled61,twin_vs_opus,only_a,8,exact
+6.2 / Table H.8.1,pooled61,twin_vs_opus,only_b,13,exact
+6.2 / Table H.8.1,pooled61,twin_vs_opus,mcnemar_p,0.383,exact
+Table 5,blind.broad25,twin,outcome_group_acc,0.4,exact
+Table 5,blind.broad25,twin,balanced_acc,0.37,exact
+Table 5,blind.broad25,twin,kappa,0.04,exact
+Table 5,blind.broad25,haiku,outcome_group_acc,0.45,exact
+Table 5,blind.broad25,haiku,balanced_acc,0.38,exact
+Table 5,blind.broad25,haiku,kappa,0.11,exact
+Table 5,blind.broad25,opus,outcome_group_acc,0.61,exact
+Table 5,blind.broad25,opus,balanced_acc,0.55,exact
+Table 5,blind.broad25,opus,kappa,0.36,exact
+Table 5,blind.broad25,twin,effect_correct,4,exact
+Table 5,blind.broad25,twin,effect_n,13,exact
+Table 5,blind.broad25,twin,null_correct,6,exact
+Table 5,blind.broad25,twin,null_n,12,exact
+H.8,blind.broad25,twin,kappa_ci_low,-0.25,approx
+H.8,blind.broad25,twin,kappa_ci_high,0.33,approx
+6.2 / Table I.2,blind.broad25,history,truth_zero,12,exact
+6.2 / Table I.2,blind.broad25,twin,zero_answers,13,exact
+H.8,blind.broad25,twin,nonzero_answers,12,exact
+H.8,blind.broad25,twin,nonzero_correct,4,exact
+H.8,blind.broad25,twin,false_effect_on_null,6,exact
+H.8,blind.broad25,twin,missed_effect,7,exact
+H.8,blind.broad25,twin,opposite_sign,2,exact
+H.8,blind.broad25,twin,parse_errors,5,reported
+6.3 / Table H.8.2,rank.blind.main,,n,24,reported
+6.3 / Table H.8.2,rank.blind.main,,rho_twin,0.387,reported
+6.3 / Table H.8.2,rank.blind.main,,p_twin,0.029,reported
+6.3 / Table H.8.2,rank.blind.main,,rho_opus,0.316,reported
+6.3 / Table H.8.2,rank.blind.main,,p_opus,0.071,reported
+6.3 / Table H.8.2,rank.blind.main,,diff_ci_low,-0.564,reported
+6.3 / Table H.8.2,rank.blind.main,,diff_ci_high,0.383,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,n,20,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,rho_twin,0.572,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,p_twin,0.005,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,rho_opus,0.379,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,p_opus,0.051,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,diff_ci_low,-0.765,reported
+6.3 / Table H.8.2,rank.blind.without_exposed,,diff_ci_high,0.363,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,n,23,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,rho_twin,0.423,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,p_twin,0.024,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,rho_opus,0.336,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,p_opus,0.062,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,diff_ci_low,-0.608,reported
+6.3 / Table H.8.2,rank.blind.without_sign_mismatch,,diff_ci_high,0.388,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,n,24,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,rho_twin,0.401,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,p_twin,0.024,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,rho_opus,0.431,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,p_opus,0.019,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,diff_ci_low,-0.404,reported
+6.3 / Table H.8.2,rank.blind.unoriented,,diff_ci_high,0.461,reported
+6.3 / Table H.8.2,rank.blind.without_top1,,rho_twin,0.302,reported
+6.3 / Table H.8.2,rank.blind.without_top1,,p_twin,0.079,reported
+6.3 / Table H.8.2,rank.blind.without_top1,,rho_opus,0.221,reported
+6.3 / Table H.8.2,rank.blind.without_top2,,rho_twin,0.298,reported
+6.3 / Table H.8.2,rank.blind.without_top2,,p_twin,0.087,reported
+6.3 / Table H.8.2,rank.blind.without_top2,,rho_opus,0.104,reported
+6.3 / Table H.8.2,rank.blind.without_top3,,rho_twin,0.468,reported
+6.3 / Table H.8.2,rank.blind.without_top3,,p_twin,0.018,reported
+6.3 / Table H.8.2,rank.blind.loo_twin_rho,,rho_min,0.302,reported
+6.3 / Table H.8.2,rank.blind.loo_twin_rho,,rho_max,0.534,reported
+6.3 / Table H.8.2,rank.blind.loo_p_below_05,,v0,21,reported
+5.1,blind.broad25,twin,sign_rule_violations,0,reported
+6.3 / Table H.8.2,rank.blind.without_top3_twin_shifts,,rho_twin,0.397,reported
+6.3 / Table H.8.2,rank.blind.without_top3_twin_shifts,,p_twin,0.038,reported
+6.2 / H.8,blind.broad25,twin,mechanical_zero_blind,6,reported
+6.2 / H.8,blind.broad25,twin,mechanical_zero_frozen_bank,1,reported
+6.2 / H.8,blind.broad25,twin,frozen_bank_n,36,reported
+H.8,blind.mechanical_zero6,history,truth_plus,0,exact
+H.8,blind.mechanical_zero6,history,truth_zero,3,exact
+H.8,blind.mechanical_zero6,history,truth_minus,3,exact
+H.8,blind.without_mechanical_zero19,,n,19,exact
+H.8,blind.without_mechanical_zero19,twin,correct,7,exact
+H.8,blind.without_mechanical_zero19,always_zero,correct,9,exact
+H.8,blind.without_mechanical_zero19,haiku,correct,9,exact
+H.8,blind.without_mechanical_zero19,sonnet,correct,10,exact
+H.8,blind.without_mechanical_zero19,opus,correct,11,exact
+H.8 / 10,binary.blind13,,n,13,exact
+H.8 / 10,binary.blind13,twin_point,correct,7,exact
+H.8 / 10,binary.blind13,always_plus,correct,7,exact
+H.8 / 10,binary.blind13,twin_point_vs_always_plus,only_a,1,exact
+H.8 / 10,binary.blind13,twin_point_vs_always_plus,only_b,1,exact
+H.8 / 10,binary.blind13,twin_point_vs_always_plus,mcnemar_p,1.0,exact
+9 / H.1,h1.conveyed,,n,31,exact
+9 / H.1,h1.conveyed,twin,correct,17,exact
+9 / H.1,h1.conveyed,haiku,correct,16,exact
+9 / H.1,h1.conveyed,opus,correct,20,exact
+9 / H.1,h1.conveyed,always_zero,correct,17,exact
+H.1,h1.action_metric,,n,24,exact
+H.1,h1.action_metric,twin,correct,11,exact
+H.1,h1.action_metric,haiku,correct,10,exact
+H.1,h1.action_metric,opus,correct,11,exact
+H.1,h1.action_metric,always_zero,correct,7,exact
+H.1,h1.money_or_order_metric,,n,20,exact
+H.1,h1.money_or_order_metric,twin,correct,14,exact
+H.1,h1.money_or_order_metric,haiku,correct,13,exact
+H.1,h1.money_or_order_metric,opus,correct,15,exact
+H.1,h1.money_or_order_metric,always_zero,correct,14,exact
+H.8,blind.without_exposed_and_late19,,n,19,exact
+H.8,blind.without_exposed_and_late19,twin,correct,10,exact
+H.8,blind.without_exposed_and_late19,always_zero,correct,8,exact
+H.8,blind.without_exposed_and_late19,opus,correct,11,exact
+Table 2; 6.2,setup.frozen33,twin,correct,17,exact
+Table 2; 6.2,setup.frozen33,twin,n,33,exact
+Table 2; 6.2,setup.frozen33,twin,wilson_low_pct,35.2,exact
+Table 2; 6.2,setup.frozen33,twin,wilson_high_pct,67.5,exact
+Table 2; 6.2,setup.frozen33,haiku,correct,17,exact
+Table 2; 6.2,setup.frozen33,opus,correct,18,exact
+Table 2; 6.2,setup.frozen33,always_zero,correct,16,exact
+Table 2; 6.2,setup.frozen33,sonnet,correct,18,exact
+7.3 / H.4,transfer4,twin_first,correct,3,reported
+7.3 / H.4,transfer4,twin_replication,correct,2,reported
+7.3 / H.4,transfer4,twin_pooled,correct,1,reported
+7.3 / H.4,transfer4,twin_after_change,correct,1,reported
+7.3 / H.4,transfer4,,n,4,reported
+6.2,setup.frozen36,twin,effect_correct,7,exact
+6.2,setup.frozen36,twin,effect_n,20,exact
+6.2,setup.frozen36,twin,null_correct,13,exact
+6.2,setup.frozen36,twin,null_n,16,exact
+6.4,setup.reco_first,haiku,false_plus_on_null,5,exact
+6.4,setup.reco_first,twin,false_plus_on_null,0,exact
+4.3,bank47,always_plus,correct,18,exact
+H.6,bank47,haiku,false_plus_on_null,9,exact
+H.6,bank47,sonnet,false_plus_on_null,5,exact
+H.6,bank47,opus,false_plus_on_null,5,exact
+H.6,all44.first,twin,false_plus_on_null,2,exact
+H.6,all44.first,history,truth_zero,21,exact
+4.3,bank47,class_majority_loo,correct,16,reported
+Appendix D,summary27.direct_tie_rules,sonnet,correct,14,exact
+Appendix D,summary27.direct_tie_rules,sonnet_first_answer,correct,15,exact

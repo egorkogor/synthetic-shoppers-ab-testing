@@ -1,0 +1,13 @@
+Title: Can We Simulate Customer Behavior and Use It to Predict A/B Test Outcomes?
+
+Authors: Egor Lozovoi
+
+Primary category: cs.AI
+Cross-list: stat.AP
+
+Comments: 40 pages, 4 figures
+
+License: choose on the form (arXiv non-exclusive licence by default)
+
+Abstract (1905 characters, limit 1920):
+Can LLM agents simulate shoppers and predict the outcomes of interface A/B tests? We tested this on 47 internal, unpublished tests of a grocery retailer: 18 "+", 22 "0", 7 "−". The agent receives a profile and a goal derived from real purchases, sees one variant, and walks through the app on screenshots; action frequencies are checked against held-out human data. Set composition and success thresholds of the main checks were recorded before the runs; the tests stay closed, and results are reported over sets of tests. On a summary set of 27 tests ("Summary-27") the simulation is right in 14–17 cases versus 13 for a direct forecast by the same model, 16 for the strongest model and 13 for "always zero" (exact McNemar, p ≥ 0.289); a frozen version scores 20 of 36, with 20 for the strongest model and 16 for "always zero", and on 25 new comparisons, whose inputs were initially assembled by an agent that had not seen the outcomes, it scores 10, with 15 for the strongest model and 12 for "always zero". The rank association with the real effect is unstable and fragile: on the main rank set of the bank (n = 33) ρ ranges from −0.08 to +0.19; on the blind set it is +0.39 for clicks (n = 24), but +0.30 (p = 0.079) without the single largest effect. Ten improvement hypotheses gave no stable gain in accuracy. Calibration brought product comparison closer to humans: 18% → 36% of sessions versus 45% for humans. The human response to a photo change was not reproduced in any of three tests. The answer is twofold: behavior could be simulated only partly, and forecasting from the simulation did not beat simple baselines, the direct forecast and "always zero". In the binary metric of related work the simulation looks successful: 9–10 correct signs of 14, but "always +" gives the same. Without null tests, a direct forecast and a replication, such an evaluation overstates the value of simulation.

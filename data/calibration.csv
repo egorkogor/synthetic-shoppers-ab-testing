@@ -1,0 +1,6 @@
+measure,denominator,agents_before_k,agents_before_n,agents_after_k,agents_after_n,humans_share_pct,humans_n_approx,human_data
+H1: at least two different product cards opened,sessions with an add-to-cart,10,55,19,53,44.6,14000,held-out (later period)
+Add from a product card opened from search,sessions starting there,78,110,15,40,30.1,5300,held-out (later period)
+Add from a product card opened from a category,sessions starting there,75,110,21,40,29.0,1700,held-out (later period)
+Add from the search results page,sessions starting there,72,110,23,40,58.7-59.0,>100000,earlier aggregates (path bounds)
+Add from the category page,sessions starting there,64,110,16,40,46.4-46.5,>10000,earlier aggregates (path bounds)
