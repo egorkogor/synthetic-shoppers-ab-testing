@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="540" viewBox="0 0 1120 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,"DejaVu Sans",sans-serif;fill:#171717}.muted{fill:#555}.small{font-size:13px}.label{font-size:15px}.title{font-size:21px;font-weight:600}.status{font-size:14px}</style>
+<text class="title" x="300" y="35">Agent action frequencies before and after calibration</text>
+<text class="small muted" x="300" y="61">Agent share of sessions (%)</text>
+<text class="small muted" x="722" y="61">Status after calibration</text>
+<line x1="300.0" y1="75" x2="300.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="300.0" y="500">0%</text>
+<line x1="378.0" y1="75" x2="378.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="378.0" y="500">20%</text>
+<line x1="456.0" y1="75" x2="456.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="456.0" y="500">40%</text>
+<line x1="534.0" y1="75" x2="534.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="534.0" y="500">60%</text>
+<line x1="612.0" y1="75" x2="612.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="612.0" y="500">80%</text>
+<line x1="690.0" y1="75" x2="690.0" y2="475" stroke="#d8d8d8" stroke-width="1"/>
+<text class="small muted" text-anchor="middle" x="690.0" y="500">100%</text>
+<line x1="300" y1="475" x2="690" y2="475" stroke="#333" stroke-width="1.2"/>
+<text class="label" x="24" y="130">H1: at least two cards</text>
+<circle cx="370.9" cy="125" r="6.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="370.9" y="115">Agent before: 18.2%</text>
+<circle cx="439.8" cy="125" r="6.5" fill="#d76032" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="439.8" y="139">Agent after: 35.8%</text>
+<text class="status" x="722" y="130">within 0.67--1.5x human band</text>
+<text class="label" x="24" y="240">Card from search</text>
+<circle cx="576.5" cy="235" r="6.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="576.5" y="225">Agent before: 70.9%</text>
+<circle cx="446.2" cy="235" r="6.5" fill="#d76032" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="446.2" y="249">Agent after: 37.5%</text>
+<text class="status" x="722" y="240">within 0.67--1.5x human band</text>
+<text class="label" x="24" y="350">Card from category</text>
+<circle cx="565.9" cy="345" r="6.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="565.9" y="335">Agent before: 68.2%</text>
+<circle cx="504.8" cy="345" r="6.5" fill="#d76032" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="504.8" y="359">Agent after: 52.5%</text>
+<text class="status" x="722" y="350">above 1.5x human band</text>
+<text class="label" x="24" y="460">Search page</text>
+<circle cx="555.3" cy="455" r="6.5" fill="#2a78d6" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="555.3" y="445">Agent before: 65.5%</text>
+<circle cx="524.2" cy="455" r="6.5" fill="#d76032" stroke="#ffffff" stroke-width="1.5"/>
+<text class="small" text-anchor="middle" x="524.2" y="469">Agent after: 57.5%</text>
+<text class="status" x="722" y="460">within 0.67--1.5x human band</text>
+<circle cx="300" cy="515" r="6" fill="#2a78d6"/>
+<text class="small" x="312" y="520">Agent before</text>
+<circle cx="450" cy="515" r="6" fill="#d76032"/>
+<text class="small" x="462" y="520">Agent after</text>
+</svg>

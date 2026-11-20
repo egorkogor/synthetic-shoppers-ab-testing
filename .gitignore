@@ -1,0 +1,11 @@
+results/
+build/
+__pycache__/
+*.pyc
+.leak_guard_words
+
+/_local_archive/
+# Local task inputs; research prompts under /prompts remain public.
+/delPdmMetrics.md
+/newAbstract.md
+/newV.md
